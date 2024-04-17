@@ -1,3 +1,6 @@
 [submodule "ITUMIK_backend"]
 	path = ITUMIK_backend
 	url = https://github.com/rsemihkoca/ITUMIK_backend.git
+[submodule "ITUMIK_manifests"]
+	path = ITUMIK_manifests
+	url = https://github.com/rsemihkoca/ITUMIK_manifests.git
