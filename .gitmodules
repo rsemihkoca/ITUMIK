@@ -7,3 +7,6 @@
 [submodule "ITUMIK_frontend"]
 	path = ITUMIK_frontend
 	url = https://github.com/rsemihkoca/ITUMIK_frontend.git
+[submodule "ITUMIK_mongo"]
+	path = ITUMIK_mongo
+	url = https://github.com/rsemihkoca/ITUMIK_mongo.git
